@@ -1,5 +1,10 @@
 {
   "version": 1,
+  "features": {
+    "hideOnProfile": false
+  },
+  "lockedSettings": {},
+  "lockedBadges": [],
   "hidden": [],
   "hiddenOn": {},
   "developers": [
